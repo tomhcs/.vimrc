@@ -1,2 +1,4 @@
-# .vimrc
-vim files
+# dotfiles
+.vimrc
+.tmux.conf
+.bash_profile
